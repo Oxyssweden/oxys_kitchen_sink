@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the oxys_kitchen_sink feature.
+ */
+
+include_once 'oxys_kitchen_sink.features.inc';
